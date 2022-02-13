@@ -5,6 +5,7 @@
 
 - A light-weight hentai-manga reader written in lightening fast C++17
 - Download book from **exhentai's url** (e.g., https://exhentai.org/g/1113473/86aec27633/)
+- Store mangas locally
 - **GP** direct download mode
 - **No-GP** download mode, crawling mangas page-by-page
 - Download **ALL favorites manga** in your exhentai account
