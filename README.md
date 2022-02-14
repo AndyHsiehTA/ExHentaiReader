@@ -1,6 +1,9 @@
 # Hentai Reader
 ![](https://i.imgur.com/eM0ceOr.png)
 
+### Download
+[release](https://github.com/AndyHsiehTA/ExHentaiReader/releases "release")
+
 ### Features
 
 - A light-weight hentai-manga reader written in lightening fast C++17
