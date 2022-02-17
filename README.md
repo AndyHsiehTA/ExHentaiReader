@@ -34,5 +34,5 @@
 `gui_resource\picture\default_thumbnail.jpg`
 
 # Credit
-email: `andy@andy-hsieh.site`
-source code: `https://andy-hsieh.site/`
+email: `andy@andy-hsieh.com`
+source code: `andy-hsieh.com`
