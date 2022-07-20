@@ -35,4 +35,3 @@
 
 # Credit
 email: `andy@andy-hsieh.com`
-source code: `andy-hsieh.com`
